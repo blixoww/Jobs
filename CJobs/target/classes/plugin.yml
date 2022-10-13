@@ -1,0 +1,8 @@
+name: CJobs
+version: '1.0-SNAPSHOT'
+main: me.synatiks.jobs.cjobs.CJobs
+authors: [ SYNATIKS ]
+description: Jobs plugins
+commands:
+  cjobs:
+    description: Affiche les informations concernant les métiers.

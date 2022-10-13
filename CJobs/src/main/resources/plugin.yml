@@ -1,0 +1,8 @@
+name: CJobs
+version: '${project.version}'
+main: me.synatiks.jobs.cjobs.CJobs
+authors: [ SYNATIKS, blixow14 ]
+description: Jobs plugins
+commands:
+  cjobs:
+    description: Affiche les informations concernant les métiers.

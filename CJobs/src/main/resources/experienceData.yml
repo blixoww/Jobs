@@ -1,0 +1,41 @@
+break:
+  mining:
+    STONE: 0.5
+    COBBLESTONE: 0.5
+    DIAMOND_ORE: 100
+    IRON_ORE: 40
+    COAL_ORE: 25
+    GOLD_ORE: 60
+  farming:
+    CARROT: 5
+    POTATO: 5
+    CROPS: 5
+    COCOA: 5
+    NETHER_WARTS: 5
+    PUMPKIN: 5
+    MELON_BLOCK: 5
+  foraging:
+    LOG: 25
+    LOG_2: 25
+kill:
+  entities:
+    PLAYER: 200
+    WITHER: 150
+    MUSHROOM_COW: 100
+    PIG_ZOMBIE: 50
+    CREEPER: 40
+    ENDERMAN: 40
+    BLAZE: 40
+    SKELETON: 30
+    WITCH: 30
+    SPIDER: 30
+    CAVE_SPIDER: 30
+    WOLF: 20
+    ZOMBIE: 20
+    SILVERFISH: 20
+    SLIME: 20
+    PIG: 5
+    SHEEP: 5
+    COW: 5
+    CHICKEN: 5
+    VILLAGER: 5
